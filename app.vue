@@ -101,7 +101,7 @@ body {
   font-size: clamp(25px, 4vw, 30px);
   font-family: "titles";
   text-align: center;
-  font-weight:550;
+  font-weight: 550;
 }
 
 .page--subtitle {
@@ -123,11 +123,4 @@ body {
     opacity: 100%;
   }
 }
-
-
-/* @media (max-width: 600px) {
-.nav{
-  min-height: 115px
-}
-} */
 </style>

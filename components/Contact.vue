@@ -19,14 +19,14 @@
           v-if="result === String(numberOne + numberTwo) && honey === null"
         >
           <div class="contact--answer--icons--cont">
-            <a :href="email" target="blank"
+            <a :href="mailto" target="blank"
               ><img src="../assets/icons/email.png" />{{ email }}</a
             >
-            <a :href="phone" target="blank"
+            <a :href="phoneto" target="blank"
               ><img src="../assets/icons/phone.png" />{{ phone }}</a
             >
             <a
-              href="https://www.linkedin.com/in/jan-carlos-zemelka-537072194/"
+              href="https://www.linkedin.com/in/jan-zemelka-537072194/"
               target="blank"
               ><img src="../assets/icons/linkedin.png" />Linkedin</a
             >
@@ -45,6 +45,8 @@ export default {
       input: null,
       email: "zemelka270@gmail.com",
       phone: "+52 55 7370 1142",
+      mailto: "mailto:zemelka270@gmail.com",
+      phoneto: "tel:+52 55 7370 1142",
       honey: null,
       result: null,
     };
@@ -96,6 +98,7 @@ export default {
   text-decoration: none;
   color: white;
   transition: 500ms;
+  padding: 20px;
 }
 .contact--answer--icons--cont > a:hover {
   font-weight: bold;
@@ -103,6 +106,6 @@ export default {
 
 .contact--answer--icons--cont > a > img {
   width: 30px;
-  padding: 20px;
+  padding-right: 10px;
 }
 </style>

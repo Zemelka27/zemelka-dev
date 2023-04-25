@@ -86,7 +86,7 @@ li > p {
 
 li > a {
   text-decoration: none;
-  color: #1982C4;
+  color: #1982c4;
   transition: 500ms;
 }
 

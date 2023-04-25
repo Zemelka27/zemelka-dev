@@ -78,7 +78,7 @@
 }
 
 .bio--text > p > span > a {
-  color: #8AC926;
+  color: #8ac926;
   transition: 500ms;
 }
 .bio--text > p > span > a:hover {
@@ -94,6 +94,6 @@
 .bio--icons > img {
   margin: 10px;
   width: 30px;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 </style>

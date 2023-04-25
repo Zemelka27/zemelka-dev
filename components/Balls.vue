@@ -26,7 +26,7 @@ export default {
       this.changeBallsColor();
     },
   },
-  beforeMount(){
+  beforeMount() {
     this.setWindowWidthHeightAndBallDiameterK();
     this.setBallsData();
   },

@@ -42,7 +42,7 @@ export default {
           "transform: translateX(-50%) translateY(-50%); top: 50%";
         this.$refs.navGridRefA.style =
           "font-size: clamp(25px, 4vw, 50px); cursor: default;";
-        this.$refs.navGridRefB.style = "font-size: clamp(14px, 3vw, 20px);";
+        this.$refs.navGridRefB.style = "font-size: clamp(14px, 3vw, 18px);";
         this.$emit("updatePage", number2);
       } else if (this.navState === 1) {
         this.$refs.navRef.style = "background: rgba(0,0,0,0.8);";
@@ -54,24 +54,24 @@ export default {
         this.$emit("updatePage", number2);
       }
 
-        // if (this.page === 0) {
-        //   this.$refs.navBio.style.fontWeight = "normal";
-        //   this.$refs.navPort.style.fontWeight = "normal";
-        //   this.$refs.navCont.style.fontWeight = "normal";
-        // } else if (this.page === 1) {
-        //   this.$refs.navBio.style.fontWeight = "bold;";
-        //   this.$refs.navPort.style.fontWeight = "normal";
-        //   this.$refs.navCont.style.fontWeight = "normal";
-        //   console.log(this.$refs.navBio);
-        // } else if (this.page === 2) {
-        //   this.$refs.navBio.style.fontWeight = "normal";
-        //   this.$refs.navPort.style.fontWeight = "bold";
-        //   this.$refs.navCont.style.fontWeight = "normal";
-        // } else if (this.page === 3) {
-        //   this.$refs.navBio.style.fontWeight = "normal";
-        //   this.$refs.navPort.style.fontWeight = "normal";
-        //   this.$refs.navCont.style.fontWeight = "bold";
-        // }
+      // if (this.page === 0) {
+      //   this.$refs.navBio.style.fontWeight = "normal";
+      //   this.$refs.navPort.style.fontWeight = "normal";
+      //   this.$refs.navCont.style.fontWeight = "normal";
+      // } else if (this.page === 1) {
+      //   this.$refs.navBio.style.fontWeight = "bold;";
+      //   this.$refs.navPort.style.fontWeight = "normal";
+      //   this.$refs.navCont.style.fontWeight = "normal";
+      //   console.log(this.$refs.navBio);
+      // } else if (this.page === 2) {
+      //   this.$refs.navBio.style.fontWeight = "normal";
+      //   this.$refs.navPort.style.fontWeight = "bold";
+      //   this.$refs.navCont.style.fontWeight = "normal";
+      // } else if (this.page === 3) {
+      //   this.$refs.navBio.style.fontWeight = "normal";
+      //   this.$refs.navPort.style.fontWeight = "normal";
+      //   this.$refs.navCont.style.fontWeight = "bold";
+      // }
     },
   },
 };
