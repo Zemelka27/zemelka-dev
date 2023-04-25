@@ -30,7 +30,7 @@
             https://simplicita.netlify.app/</a
           >
         </li>
-        <li>
+        <!-- <li>
           <p class="page--subtitle">Salaer GmbH</p>
           <p>
             <span class="page--subtitle--span">Description: </span>
@@ -41,7 +41,7 @@
           <a href="https://abeck-und-dr-med-walter.netlify.app/" target="blank">
             https://abeck-und-dr-med-walter.netlify.app/</a
           >
-        </li>
+        </li> -->
         <li>
           <p class="page--subtitle">Praxis A. Beck & Dr. med. E. Walter</p>
           <span class="page--subtitle--span">Description: </span>
