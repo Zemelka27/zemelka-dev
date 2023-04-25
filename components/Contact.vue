@@ -67,7 +67,7 @@ export default {
   text-align: center;
   max-width: 120px;
   border-radius: 10px;
-  border: 3px solid black;
+  border: 2px solid black;
   color: white;
   background: none;
   font-family: "titles";

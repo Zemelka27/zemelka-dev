@@ -101,10 +101,16 @@ body {
   font-size: clamp(25px, 4vw, 30px);
   font-family: "titles";
   text-align: center;
+  font-weight:550;
 }
 
 .page--subtitle {
   font-size: clamp(15px, 3vw, 20px);
+  font-family: "titles";
+}
+
+.page--subtitle--span {
+  font-size: 11px;
   font-family: "titles";
 }
 
