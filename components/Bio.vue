@@ -40,7 +40,7 @@
         <p>
           If you are interested in learning more about me, feel free to download
           my latest CV.&nbsp;&nbsp;<span
-            ><a href="../assets/downloads/CV2023.pdf" download
+            ><a href="/CV2023.pdf" target="blank" download
               >(Download CV)</a
             ></span
           >
@@ -79,6 +79,7 @@
 
 .bio--text > p > span > a {
   color: #8ac926;
+  text-decoration: none;
   transition: 500ms;
 }
 .bio--text > p > span > a:hover {
