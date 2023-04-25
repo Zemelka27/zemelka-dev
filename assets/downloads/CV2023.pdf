@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html >
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preload" as="style" href="/_nuxt/app.vue?vue&type=style&index=0&lang.scss"><link rel="preload" as="style" href="/_nuxt/components/Balls.vue?vue&type=style&index=0&lang.scss"><link rel="preload" as="style" href="/_nuxt/components/Bio.vue?vue&type=style&index=0&lang.css"><link rel="modulepreload" as="script" crossorigin href="/_nuxt/mnt/nvme1n1p3/WwW SSD/balls/node_modules/nuxt/dist/app/entry.mjs"><link rel="stylesheet" href="/_nuxt/app.vue?vue&type=style&index=0&lang.scss"><link rel="stylesheet" href="/_nuxt/components/Balls.vue?vue&type=style&index=0&lang.scss"><link rel="stylesheet" href="/_nuxt/components/Bio.vue?vue&type=style&index=0&lang.css"></head>
+<body ><div id="__nuxt"></div><script>window.__NUXT__={data:{},state:{},_errors:{},serverRendered:true,config:{public:{},app:{baseURL:"\u002F",buildAssetsDir:"\u002F_nuxt\u002F",cdnURL:""}}}</script><script type="module" src="/_nuxt/@vite/client" crossorigin></script><script type="module" src="/_nuxt/mnt/nvme1n1p3/WwW SSD/balls/node_modules/nuxt/dist/app/entry.mjs" crossorigin></script></body>
+</html>
