@@ -95,6 +95,10 @@ export default {
   /* margin: 20px; */
   text-decoration: none;
   color: white;
+  transition: 500ms;
+}
+.contact--answer--icons--cont > a:hover {
+  font-weight: bold;
 }
 
 .contact--answer--icons--cont > a > img {

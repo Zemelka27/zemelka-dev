@@ -11,12 +11,11 @@
             <span class="page--subtitle--span">Description: </span>
             Plastic artist portfolio created with Nuxt.js framework.
           </p>
+          <span class="page--subtitle--span">Link: </span>
           <a
             href="https://github.com/Zemelka27/cicada-react-fe-challenge-2022"
             target="blank"
           >
-            <span class="page--subtitle--span">Link: </span>
-
             https://github.com/Zemelka27/cicada-react-fe-challenge-2022</a
           >
         </li>
@@ -26,8 +25,8 @@
             <span class="page--subtitle--span">Description: </span>
             Licitation services website created in Vue.js with backend on AWS
           </p>
+          <span class="page--subtitle--span">Link: </span>
           <a href="https://simplicita.netlify.app" target="blank">
-            <span class="page--subtitle--span">Link: </span>
             https://simplicita.netlify.app/</a
           >
         </li>
@@ -38,20 +37,20 @@
             Online store created with Nuxt.js framework with integration of
             SnipCart and Google Tags
           </p>
+          <span class="page--subtitle--span">Link: </span>
           <a href="https://abeck-und-dr-med-walter.netlify.app/" target="blank">
-            <span class="page--subtitle--span">Link: </span>
             https://abeck-und-dr-med-walter.netlify.app/</a
           >
         </li>
         <li>
           <p class="page--subtitle">Praxis A. Beck & Dr. med. E. Walter</p>
+          <span class="page--subtitle--span">Description: </span>
           <p>
-            <span class="page--subtitle--span">Description: </span>
             Medical laboratory website created with Nuxt.js framework and
             integration of Netlify Headless CMS
           </p>
+          <span class="page--subtitle--span">Link: </span>
           <a href="https://abeck-und-dr-med-walter.netlify.app/" target="blank">
-            <span class="page--subtitle--span">Link: </span>
             https://abeck-und-dr-med-walter.netlify.app/</a
           >
         </li>
@@ -61,8 +60,8 @@
             <span class="page--subtitle--span">Description: </span>
             Photographer portfolio created with Nuxt.js framework.
           </p>
+          <span class="page--subtitle--span">Link: </span>
           <a href="https://www.afbeck-photography.com" target="blank">
-            <span class="page--subtitle--span">Link: </span>
             https://www.afbeck-photography.com</a
           >
         </li>
@@ -87,6 +86,11 @@ li > p {
 
 li > a {
   text-decoration: none;
-  color: white;
+  color: #1982C4;
+  transition: 500ms;
+}
+
+li > a:hover {
+  font-weight: bold;
 }
 </style>

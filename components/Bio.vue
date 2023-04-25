@@ -78,9 +78,12 @@
 }
 
 .bio--text > p > span > a {
-  color: greenyellow;
+  color: #8AC926;
+  transition: 500ms;
 }
-
+.bio--text > p > span > a:hover {
+  font-weight: bold;
+}
 .bio--icons {
   display: flex;
   flex-wrap: wrap;
