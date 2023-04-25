@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <!-- <Balls :page="page" /> -->
+    <Balls :page="page" />
     <div class="app--foreground">
       <Nav :page="page" @updatePage="updatePage" />
       <div class="page--wrapper">

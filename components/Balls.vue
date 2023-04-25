@@ -13,11 +13,11 @@ export default {
   props: ["page"],
   data() {
     return {
-      windowWidth: window.innerWidth,
-      windowHeight: window.innerHeight,
+      windowWidth: 1000,
+      windowHeight: 1000,
       ballsData: [],
       ballsAmount: 60,
-      ballDiameterK: window.innerWidth / 2.5,
+      ballDiameterK: 1000/ 2.5,
       ballsSpeedK: 0.4,
     };
   },
@@ -30,8 +30,8 @@ export default {
     this.setBallsData();
   },
   mounted() {
+    this.setBallsArena();
     this.watchWindowWidth();
-    this.setBallsArenaRef();
     this.setBallsDivs();
     this.ballsAnimation();
     this.changeBallsColor();
@@ -41,10 +41,10 @@ export default {
       window.addEventListener("resize", () => {
         this.windowWidth = window.innerWidth;
         this.windowHeight = window.innerHeight;
-        this.setBallsArenaRef();
+        this.setBallsArena();
       });
     },
-    setBallsArenaRef() {
+    setBallsArena() {
       this.$refs.ballsArenaRef.style.width = this.windowWidth + "px";
       this.$refs.ballsArenaRef.style.height = this.windowHeight + "px";
     },
@@ -141,6 +141,8 @@ export default {
   position: absolute;
   overflow: hidden;
   z-index: 0;
+  width: 100vw;
+  height: 100vh;
 }
 .ball {
   position: absolute;
