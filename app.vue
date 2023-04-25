@@ -32,7 +32,7 @@ export default {
 }
 @font-face {
   font-family: "main";
-  src: url("./assets/fonts/Sen-Regular.ttf");
+  src: url("./assets/fonts/Quicksand-VariableFont_wght.ttf");
 }
 
 * {
@@ -45,7 +45,7 @@ body {
 }
 
 .app {
-  font-size: clamp(14px, 2vw, 18px);
+  font-size: 11px;
 }
 
 .app--foreground {
@@ -56,7 +56,7 @@ body {
 
 .nav {
   font-family: "titles";
-  min-height: 130px;
+  min-height: 72px;
   animation-name: fadeIn;
   animation-duration: 10000ms;
   transition: 500ms;
@@ -72,13 +72,10 @@ body {
 }
 
 .page {
-  max-width: 1500px;
-  /* min-width: 500px; */
-
-  /* border: 1px solid black; */
+  max-width: 1000px;
   color: white;
   backdrop-filter: blur(20px);
-  border-radius: 20px;
+  border-radius: 5px;
   overflow: hidden;
   animation-name: fadeIn;
   animation-duration: 1000ms;
@@ -86,7 +83,7 @@ body {
 }
 
 .page--cont--A {
-  padding: 20px;
+  padding: 10px;
   background: rgba(0, 0, 0, 0.6);
 }
 
@@ -101,13 +98,13 @@ body {
 }
 
 .page--title {
-  font-size: clamp(30px, 6vw, 70px);
+  font-size: clamp(25px, 4vw, 30px);
   font-family: "titles";
   text-align: center;
 }
 
 .page--subtitle {
-  font-size: clamp(23px, 5vw, 50px);
+  font-size: clamp(15px, 3vw, 20px);
   font-family: "titles";
 }
 
@@ -122,9 +119,9 @@ body {
 }
 
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
 .nav{
   min-height: 115px
 }
-}
+} */
 </style>

@@ -40,15 +40,15 @@ export default {
         this.$refs.navRef.style = "background: rgba(0,0,0,0);";
         this.$refs.navContRef.style = "transform: translateX(-50%) translateY(-50%); top: 50%";
         this.$refs.navGridRefA.style =
-          "font-size: clamp(27px, 6vw, 85px); cursor: default;";
-        this.$refs.navGridRefB.style = "font-size: clamp(17px, 3vw, 25px);";
+          "font-size: clamp(27px, 5vw, 60px); cursor: default;";
+        this.$refs.navGridRefB.style = "font-size: clamp(14px, 5vw, 25px);";
         this.$emit("updatePage", number2);
       } else if (this.navState === 1) {
         this.$refs.navRef.style = "background: rgba(0,0,0,0.8);";
         this.$refs.navContRef.style = "transform: translateX(-50%) translateY(0%); top: 0%";
         this.$refs.navGridRefA.style =
-          "font-size: clamp(25px, 5vw, 40px); cursor: pointer;";
-        this.$refs.navGridRefB.style = "font-size: clamp(17px, 3vw, 20px);";
+          "font-size: clamp(18px, 5vw, 20px); cursor: pointer;";
+        this.$refs.navGridRefB.style = "font-size: 13px;";
         this.$emit("updatePage", number2);
       }
 
@@ -96,8 +96,8 @@ export default {
 .nav--grid--A {
   grid-area: A;
   font-weight: bold;
-  padding-top: 20px;
-  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 .nav--grid--A > span {
@@ -111,15 +111,15 @@ export default {
 }
 
 .nav--grid--B > span {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
   cursor: pointer;
   transition: 500ms;
 
 }
 
 .nav--grid--B > span:hover {
-  font-size: clamp(17px, 3vw, 28px);
+  /* font-size: clamp(17px, 3vw, 28px); */
   /* font-weight: bold; */
 }
 </style>

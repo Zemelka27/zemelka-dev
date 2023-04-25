@@ -98,7 +98,7 @@ export default {
 }
 
 .contact--answer--icons--cont > a > img {
-  width: 40px;
+  width: 30px;
   padding: 20px;
 }
 </style>

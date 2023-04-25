@@ -66,11 +66,11 @@
 <style>
 .bio--image {
   width: 30%;
-  max-width: 400px;
+  max-width: 200px;
   float: right;
   opacity: 0.6;
-  border-radius: 10px;
-  margin: 0px 0px 30px 30px;
+  border-radius: 5px;
+  margin: 0px 0px 20px 20px;
 }
 
 .bio--text {
@@ -86,12 +86,11 @@
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  padding: 20px;
 }
 
 .bio--icons > img {
   margin: 10px;
-  width: 50px;
+  width: 30px;
   opacity: 0.6;
 }
 </style>
