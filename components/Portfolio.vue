@@ -9,7 +9,7 @@
           <p class="page--subtitle">Cicada Securities, LLC (FE Challenge)</p>
           <p>
             <span class="page--subtitle--span">Description: </span>
-            Plastic artist portfolio created with Nuxt.js framework.
+            React app intended for currency trading.
           </p>
           <span class="page--subtitle--span">Link: </span>
           <a
@@ -44,8 +44,8 @@
         </li> -->
         <li>
           <p class="page--subtitle">Praxis A. Beck & Dr. med. E. Walter</p>
-          <span class="page--subtitle--span">Description: </span>
           <p>
+            <span class="page--subtitle--span">Description: </span>
             Medical laboratory website created with Nuxt.js framework and
             integration of Netlify Headless CMS
           </p>
