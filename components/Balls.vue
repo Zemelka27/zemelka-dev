@@ -13,11 +13,11 @@ export default {
   props: ["page"],
   data() {
     return {
-      windowWidth: 1000,
-      windowHeight: 1000,
+      windowWidth: null,
+      windowHeight: null,
+      ballDiameterK: null,
       ballsData: [],
       ballsAmount: 60,
-      ballDiameterK: 1000/ 2.5,
       ballsSpeedK: 0.4,
     };
   },
@@ -26,7 +26,8 @@ export default {
       this.changeBallsColor();
     },
   },
-  created() {
+  beforeMount(){
+    this.setWindowWidthHeightAndBallDiameterK();
     this.setBallsData();
   },
   mounted() {
@@ -37,6 +38,11 @@ export default {
     this.changeBallsColor();
   },
   methods: {
+    setWindowWidthHeightAndBallDiameterK() {
+      this.windowWidth = window.innerWidth;
+      this.windowHeight = window.innerHeight;
+      this.ballDiameterK = window.innerWidth / 2.5;
+    },
     watchWindowWidth() {
       window.addEventListener("resize", () => {
         this.windowWidth = window.innerWidth;
