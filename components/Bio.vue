@@ -9,8 +9,8 @@
         <p class="page--subtitle">Hi there,</p>
         <p>&nbsp;</p>
         <p>
-          I am a front-end developer based in Germany and Mexico, I've been
-          working for several companies in this capacity since 2020.
+          I am a web developer based in Germany and Mexico, I've been working
+          for several companies in this capacity since 2020.
         </p>
         <p>&nbsp;</p>
         <p>
@@ -18,13 +18,12 @@
           der Medien in Stuttgart and an Erasmus one-year program in a Bachelor
           of Science in Audiovisual Communication from Universidad Rey Juan
           Carlos in Madrid. To update my academic formation I have completed
-          various front-end courses from Udemy and Scrimba.
+          various online courses.
         </p>
         <p>&nbsp;</p>
         <p>
-          I am proficient in technologies such as React, Vue.js, Nuxt.js, and
-          Node.js, as well as HTML, CSS. I also have experience using headless
-          content management systems such as Strapi, Contentful and Netlify CMS.
+          I am proficient in technologies such as React, Next.js, Vue.js,
+          Nuxt.js, and Node.js, as well as HTML, CSS and Tailwind.
         </p>
         <p>&nbsp;</p>
         <p>
@@ -51,12 +50,13 @@
     <div class="page--cont--C">
       <div class="bio--icons">
         <img src="../assets/icons/react.png" />
+        <img src="../assets/icons/next.png" />
         <img src="../assets/icons/vue.png" />
         <img src="../assets/icons/nuxt.png" />
-        <img src="../assets/icons/ts.png" />
         <img src="../assets/icons/js.png" />
         <img src="../assets/icons/html.png" />
         <img src="../assets/icons/css.png" />
+        <img src="../assets/icons/tailwind.png" />
         <img src="../assets/icons/git.png" />
         <img src="../assets/icons/linux.png" />
       </div>
