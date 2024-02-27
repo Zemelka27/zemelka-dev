@@ -39,7 +39,7 @@
         <p>
           If you are interested in learning more about me, feel free to download
           my latest CV.&nbsp;&nbsp;<span
-            ><a href="/CV2023.pdf" target="blank" download
+            ><a href="/CV2024.pdf" target="blank" download
               >(Download CV)</a
             ></span
           >
