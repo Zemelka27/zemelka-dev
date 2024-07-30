@@ -76,6 +76,7 @@ body {
   color: white;
   backdrop-filter: blur(20px);
   border-radius: 5px;
+  max-height: calc(100vh - 220px);
   overflow: auto;
   animation-name: fadeIn;
   animation-duration: 1000ms;
