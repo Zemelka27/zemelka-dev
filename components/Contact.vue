@@ -68,8 +68,8 @@ export default {
 .contact--question > input {
   text-align: center;
   max-width: 120px;
-  border-radius: 10px;
-  border: 2px solid black;
+  border-radius: 5px;
+  border: 2px solid white;
   color: white;
   background: none;
   font-family: "titles";
