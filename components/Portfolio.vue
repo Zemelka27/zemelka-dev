@@ -45,7 +45,7 @@
           </p>
           <p class="page--subtitle--span">Link:</p>
           <a
-            href="https://github.com/Zemelka27/cicada-react-fe-challenge-2022"
+            href="https://starwars-ffw.netlify.app/"
             target="blank"
           >
             https://starwars-ffw.netlify.app</a
@@ -61,7 +61,7 @@
             version control throughout the development process.
           </p>
           <p class="page--subtitle--span">Link:</p>
-          <a href="https://simplicita.netlify.app" target="blank">
+          <a href="https://focal-arts.netlify.app/" target="blank">
             https://focal-arts.netlify.app</a
           >
         </li>
@@ -104,7 +104,7 @@
             throughout the development process.
           </p>
           <p class="page--subtitle--span">Link:</p>
-          <a href="https://abeck-und-dr-med-walter.netlify.app/" target="blank">
+          <a href="https://salaer.netlify.app/" target="blank">
             https://salaer.netlify.app</a
           >
         </li>
@@ -132,7 +132,7 @@
             throughout the development process.
           </p>
           <p class="page--subtitle--span">Link:</p>
-          <a href="https://www.afbeck-photography.com" target="blank">
+          <a href="https://elke-zemelka.netlify.app/" target="blank">
             https://elke-zemelka.netlify.app</a
           >
         </li>
@@ -146,7 +146,7 @@
             throughout the development process.
           </p>
           <p class="page--subtitle--span">Link:</p>
-          <a href="https://www.afbeck-photography.com" target="blank">
+          <a href="https://karl-hauser.netlify.app/" target="blank">
             https://karl-hauser.netlify.app</a
           >
         </li>
