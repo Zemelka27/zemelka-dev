@@ -22,9 +22,6 @@
             <a :href="mailto" target="blank"
               ><img src="../assets/icons/email.png" />{{ email }}</a
             >
-            <a :href="phoneto" target="blank"
-              ><img src="../assets/icons/phone.png" />{{ phone }}</a
-            >
             <a
               href="https://www.linkedin.com/in/jan-zemelka-537072194/"
               target="blank"
@@ -44,9 +41,7 @@ export default {
       numberTwo: parseInt(Math.random() * 10),
       input: null,
       email: "zemelka270@gmail.com",
-      phone: "+52 55 7370 1142",
       mailto: "mailto:zemelka270@gmail.com",
-      phoneto: "tel:+52 55 7370 1142",
       honey: null,
       result: null,
     };
