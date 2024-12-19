@@ -54,14 +54,19 @@
     </div>
     <div class="page--cont--C">
       <div class="bio--icons">
+        <img src="../assets/icons/js.png" />
         <img src="../assets/icons/react.png" />
         <img src="../assets/icons/next.png" />
         <img src="../assets/icons/vue.png" />
         <img src="../assets/icons/nuxt.png" />
-        <img src="../assets/icons/js.png" />
         <img src="../assets/icons/html.png" />
         <img src="../assets/icons/css.png" />
         <img src="../assets/icons/tailwind.png" />
+        <img src="../assets/icons/nodejs.png" />
+        <img src="../assets/icons/php.png" />
+        <img src="../assets/icons/java.png" />
+        <img src="../assets/icons/mongodb.png" />
+        <img src="../assets/icons/postgres.png" />
         <img src="../assets/icons/git.png" />
         <img src="../assets/icons/linux.png" />
       </div>
