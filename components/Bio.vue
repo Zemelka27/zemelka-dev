@@ -9,31 +9,36 @@
         <p class="page--subtitle">Hi there,</p>
         <p>&nbsp;</p>
         <p>
-          I am a web developer based in Germany and Mexico, I've been working
-          for several companies in this capacity since 2020.
+          I am a full-stack developer with professional experience since 2020,
+          working for various companies across Germany and Mexico.
+        </p>
+        <p>&nbsp;</p>
+        <p>
+          My technical expertise spans modern web development frameworks and
+          tools, including React, Next.js, Vue.js, Nuxt.js, and Node.js, PHP,
+          Java as well as foundational technologies like Vanilla JavaScript,
+          HTML and CSS.
         </p>
         <p>&nbsp;</p>
         <p>
           I hold a Bachelor of Engineering in Audiovisual Media from Hochschule
-          der Medien in Stuttgart and an Erasmus one-year program in a Bachelor
-          of Science in Audiovisual Communication from Universidad Rey Juan
-          Carlos in Madrid. To update my academic formation I have completed
-          various online courses.
+          der Medien in Stuttgart, complemented by an Erasmus program in
+          Audiovisual Communication at Universidad Rey Juan Carlos in Madrid. To
+          stay ahead in my field, I have further enriched my skills through
+          specialized online courses.
         </p>
         <p>&nbsp;</p>
         <p>
-          I am proficient in technologies such as React, Next.js, Vue.js,
-          Nuxt.js, and Node.js, as well as HTML, CSS and Tailwind.
+          I am fluent in Spanish, English (Cambridge Certificate of Advanced
+          English - C1), and German (TestDaF - C1), which enables me to work
+          effectively in multicultural and multilingual environments.
         </p>
         <p>&nbsp;</p>
         <p>
-          In addition, I am fluent in Spanish, English (Cambridge’s Certificate
-          of Advanced English - C1), and German (TestDaF - C1).
-        </p>
-        <p>&nbsp;</p>
-        <p>
-          Lastly, I have several side skills in fields like cinematography, 3D,
-          music, and scuba diving.
+          Beyond my primary technical skills, I bring a diverse range of
+          additional expertise in cinematography, 3D modeling, music production,
+          and scuba diving, reflecting my passion for creativity and
+          exploration.
         </p>
         <p>&nbsp;</p>
         <p>
