@@ -5,6 +5,30 @@
     </div>
     <div class="page--cont--B">
       <ul>
+                        <li>
+          <p class="page--subtitle">KAHLO quartet</p>
+          <p class="page--subtitle--span">Description:</p>
+          <p>
+            Fullstack development of a portfolio web app string quartet, created with
+            Next.js framework based on React and consequently JavaScript.
+            Designed with HTML/CSS and Tailwind CSS. Implementation of Git for
+            version control throughout the development process and Backend in
+            MongoDB.
+          </p>
+          <p class="page--subtitle--span">Link: https://kahlo-quartet.vercel.app/</p>
+        </li>
+                <li>
+          <p class="page--subtitle">Carpinteria BEGAR del Sureste</p>
+          <p class="page--subtitle--span">Description:</p>
+          <p>
+            Fullstack development of a web app for a kitehen and closet cosntruction buisness, created with
+            Next.js framework based on React and consequently JavaScript.
+            Designed with HTML/CSS and Tailwind CSS. Implementation of Git for
+            version control throughout the development process and Backend in
+            MongoDB.
+          </p>
+          <p class="page--subtitle--span">Link: https://www.cbegar.com/</p>
+        </li>
         <li>
           <p class="page--subtitle">TOP Product Rankings</p>
           <p class="page--subtitle--span">Description:</p>
