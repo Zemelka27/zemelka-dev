@@ -15,7 +15,13 @@
             version control throughout the development process and Backend in
             MongoDB.
           </p>
-          <p class="page--subtitle--span">Link: https://kahlo-quartet.vercel.app/</p>
+              <p class="page--subtitle--span">Link:</p>
+          <a
+            href="https://kahlo-quartet.vercel.app/"
+            target="blank"
+          >
+          https://kahlo-quartet.vercel.app/</a
+          >  
         </li>
                 <li>
           <p class="page--subtitle">Carpinteria BEGAR del Sureste</p>
@@ -27,8 +33,13 @@
             version control throughout the development process and Backend in
             MongoDB.
           </p>
-          <p class="page--subtitle--span">Link: https://www.cbegar.com/</p>
-        </li>
+          <p class="page--subtitle--span">Link:</p>
+          <a
+            href="https://www.cbegar.com/"
+            target="blank"
+          >
+            https://www.cbegar.com/</a
+          >        </li>
         <li>
           <p class="page--subtitle">TOP Product Rankings</p>
           <p class="page--subtitle--span">Description:</p>
