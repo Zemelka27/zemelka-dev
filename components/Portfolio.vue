@@ -13,7 +13,7 @@
             Next.js framework based on React and consequently JavaScript.
             Designed with HTML/CSS and Tailwind CSS. Implementation of Git for
             version control throughout the development process and Backend in
-            MongoDB.
+            MongoDB. (UNDER CONSTRUCTION)
           </p>
               <p class="page--subtitle--span">Link:</p>
           <a
@@ -48,7 +48,7 @@
             Next.js framework based on React and consequently JavaScript.
             Designed with HTML/CSS and Tailwind CSS. Implementation of Git for
             version control throughout the development process and Backend in
-            MongoDB.
+            MongoDB. (UNDER CONSTRUCTION)
           </p>
           <p class="page--subtitle--span">Link: (not yet available)</p>
         </li>
